@@ -1,0 +1,3 @@
+
+
+class StripMiner {}gt
